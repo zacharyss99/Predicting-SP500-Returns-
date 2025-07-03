@@ -1,7 +1,7 @@
 # Final Project for CS1090A Data Science
-# Please open the MS5.ipynb notebook to see final work. Download remaining files to run the notebook.
+ Please open the MS5.ipynb notebook to see final work. Download remaining files to run the notebook.
 
-Built an investor tool to predict S&P 500 daily returns using 30+ macroeconomic features collected daily from 1998 - 2023
+# Built an investor tool to predict S&P 500 daily returns using 30+ macroeconomic features collected daily from 1998 - 2023
 
 # Grade 44.6/45
 Video Comments:
